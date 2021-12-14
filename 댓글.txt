@@ -1,0 +1,70 @@
+  },
+  {
+    user: "플란넬",
+    type: "comment",
+    isMember: false,
+    profile: "./imgs/user/플로버.png",
+    membershipOnly: false,
+    time: "2021-09-10T14:14:47+09:00",
+    body: "지선아 어제 채널아안 로미오와 줄리엣보고 천지창조 생각났어",
+    photos: [
+      {
+        url: "./imgs/user/5281468dac9f4724b8312b3c6dbe3891391.jpg"
+      },
+    ],
+    comments: [
+      {
+        user: "지선",
+        profile: "./imgs/user/지선.png",
+        isMember: true,
+        time: "2021-09-10T14:16:21+09:00",
+        body: "저거 생각한 거 맞아요",
+      },
+    ],
+
+  },
+  {
+    user: "다내꺼야!🍞",
+    type: "comment",
+    isMember: false,
+    profile: "./imgs/user/플로버.png",
+    membershipOnly: false,
+    time: "2021-09-11T00:06:47+09:00",
+    body: "전 자러갑니다 피곤하네요 오늘 하루도 수고했고 좋은꿈꿔요 메건❤️잘자용 이건 선물\n\n#to_JIWON",
+    photos: [
+      {
+        url: "./imgs/user/671ea4dae28c47a89630de934171b9e7736.jpg"
+      },
+    ],
+    comments: [
+      {
+        user: "지원",
+        profile: "./imgs/user/지원.png",
+        isMember: true,
+        time: "2021-09-11T00:06:21+09:00",
+        body: "오케 자기전에 프사 누군지만 알려주시죠",
+        replyComments: [
+          {
+            user: "하영",
+            profile: "./imgs/user/하영.png",
+            isMember: true,
+            time: "2021-10-06T07:53:33+09:00",
+            body: "비타민 챙겨먹어어 진짜 중요행"
+          },
+          {
+            user: "지원",
+            profile: "./imgs/user/지원.png",
+            isMember: true,
+            time: "2021-09-11T00:09:33+09:00",
+            body: "설마 했는데"
+          }
+        ]
+      },
+      {
+        user: "채영",
+        profile: "./imgs/user/채영.png",
+        isMember: true,
+        time: "2021-10-14T02:51:25+09:00",
+        body: "파인애플 피잔지 몰랐어.."
+      }
+    ],
